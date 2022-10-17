@@ -30,28 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amol-rg001&" alt="amol-rg001" /></p>
 
 
-# Basic-JavaScript-Projects
-
-<br>Sidebar Project <br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Sidebar/
-
-<br>Color Flipper Project <br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Color-Flipper/
-
-<br>Counter Project<br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Counter/
-
-<br>Modal Project<br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Modal/
-
-<br>Navbar Project<br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Navbar-Toggle/
-
-<br>FAQ Questions Project<br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Questions/
-
-<br>Reviews Project<br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Reviews/
-
-<br>Stopwatch project<br>
-https://amol-rg001.github.io/Basic-JavaScript-Projects/Stopwatch/
