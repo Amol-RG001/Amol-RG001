@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET, JavaScript, TypeScript, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://amol-rg001.github.io/Portfolio-Project/](https://amol-rg001.github.io/Portfolio-Project/)
+- 👨‍💻 All of my projects are available at https://smartroncode.netlify.app/
+- [https://amol-rg001.github.io/Portfolio-Project/](https://amol-rg001.github.io/Portfolio-Project/)
 
 - 📫 How to reach me **amolgahane99@gmail.com**
 
